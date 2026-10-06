@@ -1,7 +1,7 @@
 {
-  "name": "design-panel",
-  "version": "0.1.0",
-  "description": "Button under the prompt that opens a panel of design sliders with a live preview",
+  "name": "usage-slider",
+  "version": "0.2.0",
+  "description": "Slide your 5-hour usage and see how far your weekly limit moves",
   "author": { "name": "itzArtha" },
   "types": "./types/index.d.ts"
 }

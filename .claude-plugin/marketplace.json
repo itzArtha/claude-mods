@@ -2,6 +2,6 @@
   "name": "claude-mods",
   "owner": { "name": "itzArtha" },
   "plugins": [
-    { "name": "design-panel", "source": "./design-panel", "description": "Design sliders panel" }
+    { "name": "usage-slider", "source": "./design-panel", "description": "Slide your 5-hour usage and see how far your weekly limit moves" }
   ]
-} 
+}
