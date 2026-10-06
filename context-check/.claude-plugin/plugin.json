@@ -1,0 +1,1 @@
+{ "name": "context-check", "version": "0.2.0", "description": "Context window meter above the prompt, warnings as it fills, and /ctx for a breakdown", "types": "./types/index.d.ts" }

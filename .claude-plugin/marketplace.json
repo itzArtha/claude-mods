@@ -1,0 +1,7 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "itzArtha" },
+  "plugins": [
+    { "name": "design-panel", "source": "./design-panel", "description": "Design sliders panel" }
+  ]
+} 
